@@ -19,8 +19,8 @@ the recording is owned by Roland Corporation.
 To compile the LilyPond source file, you obviously need to have a working
 copy of LilyPond installed on your system. If you are running Linux,
 I recommend the following commands to download and compile the latest
-version. Note that we create a build directory to avoid cluttering
-the repo.
+version of the sheet music. Note that we create a build directory to 
+avoid cluttering the repo.
 
 $ git clone https://github.com/marcpayne/naoki-nishi-cantata.git
 $ cd naoki-nishi-cantata

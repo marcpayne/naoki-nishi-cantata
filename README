@@ -25,7 +25,6 @@ avoid cluttering the repo.
 $ git clone https://github.com/marcpayne/naoki-nishi-cantata.git
 $ cd naoki-nishi-cantata
 $ mkdir build
-$ cd build
 $ lilypond -o build/ naoki-nishi-cantata.ly
 
 If you find this project interesting, please contact me! I look forward

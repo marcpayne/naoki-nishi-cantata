@@ -10,7 +10,7 @@ I have a WAV file of the original recording. There is no MIDI version available,
 
 ### Compiling
 
-To compile the LilyPond source file, you obviously need to have a working copy of LilyPond installed on your system. If you are running Linux, I recommend the following commands to download and compile the latest version of the sheet music. Note that we create a `build` directory to avoid cluttering the repo.
+To compile the LilyPond source file, you obviously need to have a working copy of LilyPond installed on your system. If you are running Linux, I recommend the following commands to download and compile the latest version of the sheet music.
 
 ```
 $ git clone https://github.com/marcpayne/naoki-nishi-cantata.git

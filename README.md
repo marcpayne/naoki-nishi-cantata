@@ -15,8 +15,8 @@ To compile the LilyPond source file, you obviously need to have a working copy o
 ```
 $ git clone https://github.com/marcpayne/naoki-nishi-cantata.git
 $ cd naoki-nishi-cantata
-$ mkdir build
-$ lilypond -o build/ naoki-nishi-cantata.ly
+$ chmod +x compile.sh
+$ ./compile.sh
 ```
 
 ### Contact

@@ -50,8 +50,9 @@
     {
       \small 
       {
-        \line { "Version 0.8.1 (April 5, 2015)" }
+        \line { "Version 0.8.2 (July 5, 2017)" }
         \line { "Engraved with LilyPond 2.18.2" \char ##x2015 \with-url #"http://www.lilypond.org" { "www.lilypond.org" } }
+        \line { \with-url #"https://github.com/marcpayne/naoki-nishi-cantata" { "https://github.com/marcpayne/naoki-nishi-cantata" } }
       }
       
       \teeny { "Distributed with permission from Roland Corporation and Naoki Nishi." }
